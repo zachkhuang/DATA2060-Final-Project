@@ -3,6 +3,15 @@ Final Project for DATA2060 course.
 
 In this project, Zachk Huang and Zixi (Valerie) Li implement Gaussian Naive Bayes (GNB) from scratch, reproduce scikit-learn results, and document the mathematical foundations and numerical algorithms used.
 
+## Authors
+
+Zachk Huang, Dept. of Sociology & Data Science Institute, Brown University. Email: yifei_huang1@brown.edu
+
+Zixi (Valerie) Li, Dept. of Sociology, Brown University. Email: zixi_li1@brown.edu
+
+## Python and Package Versions
+
+
 
 ## Project Summary
 Gaussian Naive Bayes is a simple probabilistic classifier that assumes:
@@ -20,5 +29,4 @@ In this project, we:
 ## Key Results
 - Custom GNB accuracy: 0.967
 - sklearn GNB accuracy: 0.967
-- Predictions: 100% identical between the two models
-- Gaussian curves show clear separation between iris species, especially in petal features.
+- Predictions: 100% identical between the two models.
