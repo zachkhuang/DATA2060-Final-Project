@@ -1,3 +1,6 @@
+# Based on the Data 2060 course environment
+# Modified for this project
+
 name: data2060
 channels:
 - conda-forge
