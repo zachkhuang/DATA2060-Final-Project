@@ -11,7 +11,7 @@ Zixi (Valerie) Li, Dept. of Sociology, Brown University. Email: zixi_li1@brown.e
 
 ## Python and Package Versions
 
-
+See `data2060.yml`.
 
 ## Project Summary
 Gaussian Naive Bayes is a simple probabilistic classifier that assumes:
